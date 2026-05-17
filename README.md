@@ -1,7 +1,3 @@
-Sure! Here is the complete **README.md** content in English. You can copy and paste this into your `README.md` file.
-
----
-
 # 📝 Smart MongoDB Todo App
 
 A modern, responsive Full-Stack Todo application built with **Node.js**, **Express**, and **MongoDB Atlas**. This project demonstrates how to connect a backend server to a cloud database for permanent data storage.
